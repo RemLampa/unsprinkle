@@ -1,11 +1,14 @@
-import React from 'react';
-import styled from 'styled-components/macro';
+import React from "react";
+import styled from "styled-components/macro";
 
-import GlobalStyles from '../GlobalStyles';
-import Header from '../Header';
-import Hero from '../Hero';
-import MainContent from '../MainContent';
-import Footer from '../Footer';
+import "@fontsource/inter/400.css";
+import "@fontsource/inter/variable.css";
+
+import GlobalStyles from "../GlobalStyles";
+import Header from "../Header";
+import Hero from "../Hero";
+import MainContent from "../MainContent";
+import Footer from "../Footer";
 
 const App = () => {
   return (
